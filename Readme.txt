@@ -1,13 +1,13 @@
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------Code is in Python Language-----------------------------------------------------
+------------------------------------------------Code is in Python Language------------------------------------------------
 
 
 Please install all libraries mentioned in reuirements.txt file before executing the code 
 
 
--------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
 All files should be in same directory
 
@@ -18,7 +18,7 @@ and to do demo testing and encode the original dataset to train machine learning
 Remaining all files accuracy.py, precision.py, recall.py, f1_score.py, Encoded_dataset.csv, Artificial-Bee-Colony_Algorithm.py
 and Cuckoo-Search_Algorithm.py file should be in same directory with 
 
-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 Artificial-Bee-Colony_Algorithm.py file contains code for ABC algorithm which can be executed. By default
 it is set to evaluate Accuracy metric of machine learning model which can be changed by uncommenting code for
